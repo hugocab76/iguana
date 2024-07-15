@@ -1,5 +1,5 @@
 # iguana
-## Proyecto Iguana Botic-46, Rubu & Rails
+## Proyecto Iguana Botic-46, Ruby & Rails
 
 Proyecto desarrolloado en modulo **Front End**
 
