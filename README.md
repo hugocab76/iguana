@@ -3,4 +3,4 @@
 
 Proyecto desarrolloado en modulo **Front End**
 
-[nombre de tu referencia]: http:www.tuenlace.com
+[Talento Digital]: [https://inforcap.desafiolab.com/cohorts]
