@@ -3,4 +3,4 @@
 
 Proyecto desarrolloado en modulo **Front End**
 
-[Talento Digital]: (https://inforcap.desafiolab.com/)
+Talento Digital: https://inforcap.desafiolab.com
